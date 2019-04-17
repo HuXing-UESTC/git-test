@@ -4,4 +4,5 @@ char a[] = "hello master!\n";
 void main()
 {
     printf("%s",a);
+    printf("master is huxing");
 }
